@@ -1,4 +1,4 @@
-#include <locale.h>
+boa tarde, #include <locale.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -192,24 +192,4 @@ int main()
     while (opcao != 4);   // Loop principal
 
     return 0;
-}
-
-            printf("Domingo %d\n", totalPessoas[3]);
-            break;
-
-        case 4:
-            printf("Encerrando...\n");
-            Sleep(2000);
-           ExitProcess(0);
-            break;
-
-        default:
-            printf("Opção inválida!\n");
-            break;
-        }
-    }
-    while (opcao != 4);   // Loop principal
-
-    return 0;
-}
-
+}  como voce colocaria subrotinas nessa atividade?
