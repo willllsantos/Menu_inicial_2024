@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1730330622 source:/home/willian/Documentos/Testes/MAPA TESTE STRINGS/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1730750156 source:/home/willian/Documentos/MAPA LINGUAGEM C/MAPA TESTE STRINGS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1731018952 source:c:\users\willi\documents\mapa linguagem c\mapa teste strings\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+
