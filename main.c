@@ -193,8 +193,7 @@ int main()
 
     return 0;
 }
-git init
-  GNU nano 8.2                         main.c                         Modified
+
             printf("Domingo %d\n", totalPessoas[3]);
             break;
 
