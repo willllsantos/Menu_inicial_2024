@@ -192,4 +192,4 @@ int main()
     while (opcao != 4);   // Loop principal
 
     return 0;
-}  como voce colocaria subrotinas nessa atividade?
+}
